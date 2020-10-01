@@ -1,6 +1,7 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Read Only by HTML5 UP
+[html5up.net | @ajlkn](https://html5up.net/read-only)
+
+Free for personal and commercial use under the [CCA 3.0 license](https://html5up.net/license)
 
 
 Just a super simple single-page responsive template built for personal sites and portfolios
@@ -22,13 +23,11 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- Demo Images: [Unsplash](https://unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+- Icons: [Font Awesome](https://fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+- Other:
+	- [jQuery](https://jquery.com)
+	- [Scrollex](https://github.com/ajlkn/jquery.scrollex)
+	- [Responsive Tools](https://github.com/ajlkn/responsive-tools)
